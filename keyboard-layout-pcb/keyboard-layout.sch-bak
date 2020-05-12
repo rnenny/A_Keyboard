@@ -2604,15 +2604,4 @@ Wire Wire Line
 	1400 4400 17650 4400
 Wire Wire Line
 	10650 6000 10700 6000
-$Comp
-L Capstone:Feather32u4_proto U?
-U 1 1 5EBDF1F3
-P 15175 8775
-F 0 "U?" H 15625 8940 50  0000 C CNN
-F 1 "Feather32u4_proto" H 15625 8849 50  0000 C CNN
-F 2 "" H 15175 8775 50  0001 C CNN
-F 3 "" H 15175 8775 50  0001 C CNN
-	1    15175 8775
-	1    0    0    -1  
-$EndComp
 $EndSCHEMATC
